@@ -1,0 +1,51 @@
+{
+  "decks": [
+    {
+      "id": 1,
+      "title": "أسماء الخضر والفواكه",
+      "image": "https://www.maajim.com/img/quizzes/9bf31c7ff062936a96d3c8bd1f8f2ff3.png",
+      "cards": [
+        {
+          question: 'بطاطس', 
+          answer: 'https://www.maajim.com/img/quizzes/15/04ecb1fa28506ccb6f72b12c0245ddbc.png',
+          type: 'image'
+        },
+        {
+          question: 'بازلاء', 
+          answer: 'https://www.maajim.com/img/quizzes/15/b2eeb7362ef83deff5c7813a67e14f0a.png',
+          type: 'image'
+        },
+        {
+          question: 'باذنجان', 
+          answer: 'https://www.maajim.com/img/quizzes/15/08c5433a60135c32e34f46a71175850c.png',
+          type: 'image'
+        },
+      ]
+    },
+    {
+      "id": 1,
+      "title": "أسماء الألوان",
+      "image": "https://www.maajim.com/img/quizzes/6f4922f45568161a8cdf4ad2299f6d23.png",
+      "cards": [
+        {
+          question: 'أحمر', 
+          answer: 'https://www.maajim.com/img/quizzes/15/04ecb1fa28506ccb6f72b12c0245ddbc.png',
+          type: 'image'
+        },
+        {
+          question: 'أخضر', 
+          answer: 'https://www.maajim.com/img/quizzes/15/b2eeb7362ef83deff5c7813a67e14f0a.png',
+          type: 'image'
+        },
+        {
+          question: 'أزرق', 
+          answer: 'https://www.maajim.com/img/quizzes/15/08c5433a60135c32e34f46a71175850c.png',
+          type: 'image'
+        },
+      ]
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
